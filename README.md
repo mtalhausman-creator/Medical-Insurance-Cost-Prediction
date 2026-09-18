@@ -1,4 +1,6 @@
-# Medical Insurance Cost Prediction
+## Live Demo
+
+[Click here to try the Medical Insurance Cost Prediction App](https://medical-insurance-cost-prediction-5upp9g5tqmd2uu5nps94jr.streamlit.app/)# Medical Insurance Cost Prediction
 
 ## Project Overview
 
